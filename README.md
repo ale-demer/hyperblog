@@ -6,6 +6,8 @@ Hyperblog es un blog realizado para hacer pruebas de Git / Github.
 
 Solo visita la página!
 
+Gracias a Github Pages.
+
 ## Usage
 
 El contenido del sitio es información importante.
