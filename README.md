@@ -4,31 +4,17 @@ Hyperblog es un blog realizado para hacer pruebas de Git / Github.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
+Solo visita la página!
 
 ## Usage
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+El contenido del sitio es información importante.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+Pull request son bienvenidas. Para cambios mayores, por favot abra un issue primero para discutir que es lo que le gustaría mejorar.
+
+Por favor, asegurese de actualizar los test apropiadamente.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
